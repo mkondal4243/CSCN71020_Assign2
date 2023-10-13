@@ -107,3 +107,4 @@ void printOptions() {
 	printf("5. Get Rectangle Area\n");
 	printf("6. Exit\n");
 }
+
